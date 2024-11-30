@@ -2,7 +2,7 @@ name = 'Anatoly'
 print('Name:'+(name))
 age=42
 print('Age:', (age))
-new=1
-print('New age:', (age+new))
-name='Is_student:'
-print((name), True)
+age= 42+1
+print('New age:', (age))
+is_student = True
+print('is_student:', is_student)
